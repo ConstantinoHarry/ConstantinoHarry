@@ -1,4 +1,4 @@
-## CONSTANTINO HARRY ALEXANDER 
+# CONSTANTINO HARRY ALEXANDER 
 
 - Year 3 CS student at [HKBU](https://www.comp.hkbu.edu.hk/v1/) concentrating in Artificial Intelligence
 - I am currently focusing on model interfacing and practical AI applications.
