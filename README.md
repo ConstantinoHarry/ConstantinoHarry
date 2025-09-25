@@ -11,9 +11,9 @@
 
 ### 🚀 Fiscal Wiser Screenshots
 
-<img src="./demoCryptoTrading.jpeg" width="300" />
-<img src="./demoDashboard.jpeg" width="300" />
-<img src="./demoStockTrading.png" width="300" />
+<img src="./demoCryptoTrading.jpeg" width="280" />
+<img src="./demoDashboard.jpeg" width="280" />
+<img src="./demoStockTrading.png" width="280" />
 
 <br>
 
