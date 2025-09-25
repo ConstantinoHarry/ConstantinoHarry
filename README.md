@@ -5,11 +5,12 @@
 
 ### Recent Project **FISCAL WISER**
  - I have recently worked on a web development project "Fiscal Wiser", centralizing financial tools ranging from paper trading with crypto and stocks, to financial management tools.
-   
-#### 📫 How to reach me ...
-- 📧 Email: [harryconstantino16@gmail.com](harryconstantino16@gmail.com)
-- 💼 LinkedIn: [Harry Alexander Constantino](https://www.linkedin.com/in/harry-alexander-constantino/)
-- 📷 Instagram: [@ConstantinoHarry](https://www.instagram.com/constantinoharry/?next=%2F)
+
+## 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-harryconstantino16@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harryconstantino16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harry%20Alexander%20Constantino-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-alexander-constantino/)
+[![Instagram](https://img.shields.io/badge/Instagram-@ConstantinoHarry-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/constantinoharry/)
 
  ### ⚡ Fun Fact
  Music helps me conclude my projects. 
