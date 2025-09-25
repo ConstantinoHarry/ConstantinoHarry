@@ -27,8 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harry%20Alexander%20Constantino-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-alexander-constantino/)
 [![Instagram](https://img.shields.io/badge/Instagram-@ConstantinoHarry-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/constantinoharry/)
 
- ### ⚡ Fun Fact
- Music helps me conclude my projects. 
 
 ## 🛠️ Tech Stack
 
