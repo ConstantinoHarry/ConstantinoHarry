@@ -3,8 +3,11 @@
 - Year 3 CS student at [HKBU](https://www.comp.hkbu.edu.hk/v1/) concentrating in Artificial Intelligence
 - I am currently focusing on model interfacing and practical AI applications.
 
-### Recent Project **FISCAL WISER**
- - I have recently worked on a web development project "Fiscal Wiser", centralizing financial tools ranging from paper trading with crypto and stocks, to financial management tools.
+## 💼 Recent Project: **FISCAL WISER**
+- FiscalWiser is a comprehensive financial planning web application designed to help users track income, expenses, budgets, retirement goals, and simulate paper trading for stocks and cryptocurrencies. The platform provides interactive charts, summary metrics, and persistent data storage for a seamless personal finance experience.
+<img src="./demoCryptoTrading.jpeg" alt="Fiscal Wiser Crypto Trading" width="400" />
+*Crypto trading interface of Fiscal Wiser*
+
 
 ## 🌐 Connect With Me
 
