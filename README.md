@@ -6,17 +6,16 @@
 ## 💼 Recent Project: **FISCAL WISER**
 - FiscalWiser is a comprehensive financial planning web application designed to help users track income, expenses, budgets, retirement goals, and simulate paper trading for stocks and cryptocurrencies. The platform provides interactive charts, summary metrics, and persistent data storage for a seamless personal finance experience.
   
+
+
 <div align="center">
 
-### 🚀 Fiscal Wiser Screenshots
+### 🚀 Platform Features
 
-<img src="./demoCryptoTrading.jpeg" width="180" title="Crypto Trading" />
-<img src="./demoDashboard.png" width="180" title="Dashboard" />
-<img src="./demoStockTrading.png" width="180" title="Stock Trading" />
-
-<br>
-
-<sup>Crypto Trading • Dashboard • Stock Trading</sup>
+| Crypto Trading | Main Dashboard | Stock Trading |
+|:--------------:|:--------------:|:-------------:|
+| <img src="./demoCryptoTrading.jpeg" width="150" /> | <img src="./demoDashboard1.png" width="150" /> | <img src="./demoStockTrading.png" width="150" /> |
+| Real-time crypto trading | Financial overview | Stock market simulation |
 
 </div>
 
