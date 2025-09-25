@@ -21,13 +21,14 @@
 **AI & Data Science**
 <br>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter" />
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 <br>
 
-**Web Development & APIs**  
+**Web Development**  
 <br>
 <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,mongodb" />
 <br>
-![REST API](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=json&logoColor=white)
+🔄 **RESTful APIs**
 
 **Tools & Platforms**
 <br>
