@@ -4,28 +4,19 @@
 - Year 3 CS student at [HKBU](https://www.comp.hkbu.edu.hk/v1/) concentrating in Artificial Intelligence
 - I am currently focusing on model interfacing and practical AI applications.
 
-## 💼 Recent Project: [**FISCAL WISER**](https://github.com/ConstantinoHarry/Web-Development)
+## 💼 Recent Projects: 
+### [**FISCAL WISER**](https://github.com/ConstantinoHarry/Web-Development)
 - FiscalWiser is a comprehensive financial planning web application designed to help users track income, expenses, budgets, retirement goals, and simulate paper trading for stocks and cryptocurrencies. The platform provides interactive charts, summary metrics, and persistent data storage for a seamless personal finance experience.
 
-  ### [CLICK ME FOR CODE](https://github.com/ConstantinoHarry/Web-Development)
+### [**AIIGood - AI Companion for Mental Wellness Across All Ages**](https://github.com/ConstantinoHarry/JUMPSTARTER-SDG-Hackathon)
+[**Initial Interface**](https://constantinoharry.github.io/JUMPSTARTER-SDG-Hackathon/) 
+- AIIGood is an innovative AI-powered mental wellness platform designed to provide 24/7 anonymous support for children, adults, and the elderly in Hong Kong. Our solution addresses the growing mental health crisis by combining cutting-edge AI technology with compassionate care, reducing stigma and improving access to mental health resources.
 
-<div align="center">
-
-### 🚀 Fiscal Wiser Screenshots
+  Team: AIIGood (Granville & Harry)
 
 
-<img src="./demoCryptoTrading.jpeg" width="280" />
-<img src="./demoDashboard.jpeg" width="280" />
-<img src="./demoStockTrading.png" width="280" />
-
-<br>
-
-<em>Crypto Trading • Dashboard • Stock Trading</em>
-
-</div>
 
 ## 🌐 Connect With Me
-
 [![Gmail](https://img.shields.io/badge/Gmail-harryconstantino16@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harryconstantino16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harry%20Alexander%20Constantino-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-alexander-constantino/)
 [![Instagram](https://img.shields.io/badge/Instagram-@ConstantinoHarry-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/constantinoharry/)
