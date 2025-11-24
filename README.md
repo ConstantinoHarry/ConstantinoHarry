@@ -1,7 +1,10 @@
 # CONSTANTINO HARRY ALEXANDER 
 ### [Repositories](https://github.com/ConstantinoHarry?tab=repositories) (View codes and what I have been doing recently) 
 
-- Year 3 CS student at [HKBU](https://www.comp.hkbu.edu.hk/v1/) concentrating in Artificial Intelligence
+- Year 3 CS student at [HKBU](https://www.comp.hkbu.edu.hk/v1/) concentrating in Artificial Intelligence:
+
+  
+        Java, DSA, application development, Maths and most importantly AI! 
 
 ## 💼 Recent Projects: 
 ### [**FISCAL WISER**](https://github.com/ConstantinoHarry/Web-Development)
