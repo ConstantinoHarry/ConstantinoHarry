@@ -16,16 +16,16 @@
 - **YOLO26n:** Delivered real-time performance with a 13.05x per-frame inference speed-up (41.6 FPS vs. 6.2 FPS on an NVIDIA T4). Recommended for throughput-bounded streaming deployments.
 
 <p align="center">
-  <img src="../ConstantinoHarry/frcnn_training_curves.png" alt="Faster R-CNN Training Curves" width="45%">
+  <img src="./frcnn_training_curves.png" alt="Faster R-CNN Training Curves" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="../ConstantinoHarry/yolo26_training_curves.png" alt="YOLO26n Training Curves" width="45%">
+  <img src="./yolo26_training_curves.png" alt="YOLO26n Training Curves" width="45%">
 </p>
 
 ### Video Inference & Throughput
 - Evaluated end-to-end video throughput and temporal consistency. Demonstrated YOLO26n's real-time streaming capabilities alongside highly stable inter-frame bounding box predictions (negligible jitter) for both models.
 
 <p align="center">
-  <img src="../ConstantinoHarry/video_comparison.png" alt="Video Inference and Temporal Consistency Comparison" width="90%">
+  <img src="./video_comparison.png" alt="Video Inference and Temporal Consistency Comparison" width="90%">
 </p>
 
 ### Detection Quality & End-to-End Evaluation
@@ -33,20 +33,20 @@
 - On generalization tests, YOLO26n produced tighter bounding box crops that yielded closer matches to the ground truth when integrated with downstream Optical Character Recognition (OCR). 
 
 <p align="center">
-  <img src="../ConstantinoHarry/model_comparison_iou.png" alt="Model Comparison IoU" width="45%">
+  <img src="./model_comparison_iou.png" alt="Model Comparison IoU" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="../ConstantinoHarry/detection_rate_comparison.png" alt="Detection Rate Comparison" width="45%">
+  <img src="./detection_rate_comparison.png" alt="Detection Rate Comparison" width="45%">
 </p>
 
 <p align="center">
-  <img src="../ConstantinoHarry/generalisation_test_comparison.png" alt="Generalisation Test Comparison with OCR Output" width="90%">
+  <img src="./generalisation_test_comparison.png" alt="Generalisation Test Comparison with OCR Output" width="90%">
 </p>
 
 ### Sample Predictions
 <p align="center">
-  <img src="../ConstantinoHarry/frcnn_sample_predictions.png" alt="Faster R-CNN Sample Predictions" width="45%">
+  <img src="./frcnn_sample_predictions.png" alt="Faster R-CNN Sample Predictions" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="../ConstantinoHarry/yolo26_sample_predictions.png" alt="YOLO26n Sample Predictions" width="45%">
+  <img src="./yolo26_sample_predictions.png" alt="YOLO26n Sample Predictions" width="45%">
 </p>
 
 ## 2. [**Deep Image Colorization**](https://github.com/ConstantinoHarry/deep-image-colorization)
