@@ -7,7 +7,48 @@
         Java, DSA, application development, Maths and most importantly AI! 
 
 # Recent Projects:
----
+
+## [**Architectural Tradeoffs in ALPR: YOLO26n vs Faster R-CNN**](https://github.com/ConstantinoHarry/ALPR-YOLO26n-vs-FasterRCNN)
+- Conducted a controlled benchmarking study comparing the lightweight single-stage YOLO26n detector against a two-stage Faster R-CNN (ResNet-50 FPN backbone) for Automatic License Plate Recognition (ALPR).
+
+### Architectures & Training
+- **Faster R-CNN:** Achieved superior localization consistency with a mean IoU of 0.7233 and a lower catastrophic failure rate of 6.9%, making it ideal for accuracy-bounded, single-shot pipelines. Implemented a custom two-phase training curriculum utilizing plate-geometry-aware anchor ratios to compensate for license plate aspect ratios.
+- **YOLO26n:** Delivered real-time performance with a 13.05x per-frame inference speed-up (41.6 FPS vs. 6.2 FPS on an NVIDIA T4). Recommended for throughput-bounded streaming deployments.
+
+<p align="center">
+  <img src="../ConstantinoHarry/frcnn_training_curves.png" alt="Faster R-CNN Training Curves" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../ConstantinoHarry/yolo26_training_curves.png" alt="YOLO26n Training Curves" width="45%">
+</p>
+
+### Video Inference & Throughput
+- Evaluated end-to-end video throughput and temporal consistency. Demonstrated YOLO26n's real-time streaming capabilities alongside highly stable inter-frame bounding box predictions (negligible jitter) for both models.
+
+<p align="center">
+  <img src="../ConstantinoHarry/video_comparison.png" alt="Video Inference and Temporal Consistency Comparison" width="90%">
+</p>
+
+### Detection Quality & End-to-End Evaluation
+- **End-to-End Evaluation:** Benchmarked the detection models through EasyOCR, demonstrating that standard geometric metrics like IoU do not fully determine downstream OCR success. 
+- On generalization tests, YOLO26n produced tighter bounding box crops that yielded closer matches to the ground truth when integrated with downstream Optical Character Recognition (OCR). 
+
+<p align="center">
+  <img src="../ConstantinoHarry/model_comparison_iou.png" alt="Model Comparison IoU" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../ConstantinoHarry/detection_rate_comparison.png" alt="Detection Rate Comparison" width="45%">
+</p>
+
+<p align="center">
+  <img src="../ConstantinoHarry/generalisation_test_comparison.png" alt="Generalisation Test Comparison with OCR Output" width="90%">
+</p>
+
+### Sample Predictions
+<p align="center">
+  <img src="../ConstantinoHarry/frcnn_sample_predictions.png" alt="Faster R-CNN Sample Predictions" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="../ConstantinoHarry/yolo26_sample_predictions.png" alt="YOLO26n Sample Predictions" width="45%">
+</p>
+
 ## [**Deep Image Colorization**](https://github.com/ConstantinoHarry/deep-image-colorization)
 - Deep image colorization using a Pix2Pix-style cGAN: a ResNet‑18–backed U‑Net predicts Lab color ab channels from grayscale L, with a PatchGAN discriminator enforcing local realism. A hybrid objective (L1 + adversarial + LPIPS) plus optional FAISS retrieval hints improves vibrancy and training stability. Trained on a curated Kaggle subset; results include PSNR ≈ 22.53 dB and SSIM ≈ 0.9162.
 
