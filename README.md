@@ -1,10 +1,11 @@
 # CONSTANTINO HARRY ALEXANDER 
 ### [Repositories](https://github.com/ConstantinoHarry?tab=repositories) (View codes and what I have been doing recently) 
 
-- Year 3 CS student at [HKBU](https://www.comp.hkbu.edu.hk/v1/) concentrating in Artificial Intelligence
-- Currently an Associate Project Manage @ [Oursky](https://www.oursky.com)
 
+#### Year 3 CS student at [HKBU](https://www.comp.hkbu.edu.hk/v1/) concentrating in Artificial Intelligence
+#### Currently an Associate Project Manage @ [Oursky](https://www.oursky.com)
 
+---
 # Recent Projects:
 
 ## 1. [**Architectural Tradeoffs in ALPR: YOLO26n vs Faster R-CNN**](https://github.com/ConstantinoHarry/Automatic-License-Plate-Detection--YOLO26n-vs.-Faster-R-CNN/blob/main/project_report.pdf)
