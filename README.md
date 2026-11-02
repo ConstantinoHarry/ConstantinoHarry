@@ -54,10 +54,8 @@
 
 - Semantic grayscale‑to‑color translation with ResNet‑UNet + PatchGAN in Lab space. Hybrid losses (L1 + GAN + LPIPS) and optional FAISS retrieval guidance produce vibrant, realistic colors with stable training. Colab‑ready notebook with reproducible setup, training, evaluation, and galleries.
 
-## 3. [**FISCAL WISER**](https://github.com/ConstantinoHarry/Web-Development)
-- FiscalWiser is a comprehensive financial planning web application designed to help users track income, expenses, budgets, retirement goals, and simulate paper trading for stocks and cryptocurrencies. The platform provides interactive charts, summary metrics, and persistent data storage for a seamless personal finance experience.
 
-## 4. [**AIIGood - AI Companion for Mental Wellness Across All Ages**](https://github.com/ConstantinoHarry/JUMPSTARTER-SDG-Hackathon)
+## 3. [**AIIGood - AI Companion for Mental Wellness Across All Ages**](https://github.com/ConstantinoHarry/JUMPSTARTER-SDG-Hackathon)
 [**Initial Interface**](https://constantinoharry.github.io/JUMPSTARTER-SDG-Hackathon/) 
 - AIIGood is an innovative AI-powered mental wellness platform designed to provide 24/7 anonymous support for children, adults, and the elderly in Hong Kong. Our solution addresses the growing mental health crisis by combining cutting-edge AI technology with compassionate care, reducing stigma and improving access to mental health resources.
 
