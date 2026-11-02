@@ -3,7 +3,7 @@
 
 
 #### Final year CS student at [HKBU](https://www.comp.hkbu.edu.hk/v1/) concentrating in Artificial Intelligence
-#### Currently an Associate Project Manage @ [Oursky](https://www.oursky.com)
+
 
 ---
 # Recent Projects:
